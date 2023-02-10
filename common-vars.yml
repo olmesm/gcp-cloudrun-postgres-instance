@@ -1,0 +1,15 @@
+project: <GCP PROJECT>
+location: europe-west1
+team: <TEAM EMAIL ADDRESS>
+service_name: <SERVICE NAME>
+image_name: <IMAGE NAME>
+container_port: 3000
+domain: <DOMAIN - COULD BE SUBDOMAIN>
+
+service_api_list:
+  - compute
+  - run
+  - artifactregistry
+  - sqladmin
+  - iamcredentials
+  - iap
