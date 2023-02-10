@@ -1,3 +1,4 @@
+python 3.8.10
 gcloud 380.0.0
 terraform 1.1.7
 terragrunt 0.36.6
